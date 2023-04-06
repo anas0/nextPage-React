@@ -1,4 +1,4 @@
-# nextPage Starter Repository
+# nextPage Repository
 
 A simple React app built with React & React Router Dom.
 
